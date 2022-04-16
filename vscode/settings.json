@@ -1,8 +1,13 @@
 {
     "workbench.startupEditor": "none",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontSize": 16,
+    "editor.fontSize": 15,
     "editor.fontFamily": "'UDEVGothic-Bold', Menlo, Monaco, 'Courier New', monospace",
-    "window.zoomLevel": 0.6,
-    "workbench.colorTheme": "GitHub Dark Dimmed"
+    "window.zoomLevel": 0.9,
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "files.insertFinalNewline": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.renderWhitespace": "boundary"
 }
