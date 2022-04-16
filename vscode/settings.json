@@ -1,0 +1,8 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'UDEVGothic-Bold', Menlo, Monaco, 'Courier New', monospace",
+    "window.zoomLevel": 0.6,
+    "workbench.colorTheme": "GitHub Dark Dimmed"
+}
