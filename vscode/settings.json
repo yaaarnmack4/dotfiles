@@ -9,5 +9,8 @@
     "editor.bracketPairColorization.enabled": true,
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.guides.bracketPairs": true,
-    "editor.renderWhitespace": "boundary"
+    "editor.renderWhitespace": "boundary",
+    "explorer.confirmDragAndDrop": false,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
 }
