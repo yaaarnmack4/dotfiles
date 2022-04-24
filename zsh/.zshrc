@@ -37,16 +37,9 @@ export SAVEHIST=100000
 # alias
 #
 
-alias l='ls -1A'
-alias ll='ls -lh'
-alias lr='ll -R'
-alias la='ll -A'
-alias lm='la | "$PAGER"'
-alias lk='ll -Sr'
-alias lt='ll -tr'
-alias lc='lt -c'
-alias lu='lt -u'
-alias sl='ls'
+alias ls='ls -1 --color=auto'
+alias ll='ls -hlF'
+alias la='ls -ahlF'
 alias relogin='exec $SHELL -l'
 alias history='history -i'
 
@@ -67,4 +60,3 @@ eval "$(starship init zsh)"
 #
 
 eval "$(anyenv init -)"
-
