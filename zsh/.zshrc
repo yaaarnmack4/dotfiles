@@ -37,6 +37,7 @@ export SAVEHIST=100000
 # alias
 #
 
+alias brew="PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin brew"
 alias ls='ls -1 --color=auto'
 alias ll='ls -hlF'
 alias la='ls -ahlF'
